@@ -1,0 +1,14 @@
+E:\Learning\Programming\@Projects\TQB\TQB\bin\Debug\net8.0\TQB.exe
+E:\Learning\Programming\@Projects\TQB\TQB\bin\Debug\net8.0\TQB.deps.json
+E:\Learning\Programming\@Projects\TQB\TQB\bin\Debug\net8.0\TQB.runtimeconfig.json
+E:\Learning\Programming\@Projects\TQB\TQB\bin\Debug\net8.0\TQB.dll
+E:\Learning\Programming\@Projects\TQB\TQB\bin\Debug\net8.0\TQB.pdb
+E:\Learning\Programming\@Projects\TQB\TQB\obj\Debug\net8.0\TQB.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learning\Programming\@Projects\TQB\TQB\obj\Debug\net8.0\TQB.AssemblyInfoInputs.cache
+E:\Learning\Programming\@Projects\TQB\TQB\obj\Debug\net8.0\TQB.AssemblyInfo.cs
+E:\Learning\Programming\@Projects\TQB\TQB\obj\Debug\net8.0\TQB.csproj.CoreCompileInputs.cache
+E:\Learning\Programming\@Projects\TQB\TQB\obj\Debug\net8.0\TQB.dll
+E:\Learning\Programming\@Projects\TQB\TQB\obj\Debug\net8.0\refint\TQB.dll
+E:\Learning\Programming\@Projects\TQB\TQB\obj\Debug\net8.0\TQB.pdb
+E:\Learning\Programming\@Projects\TQB\TQB\obj\Debug\net8.0\TQB.genruntimeconfig.cache
+E:\Learning\Programming\@Projects\TQB\TQB\obj\Debug\net8.0\ref\TQB.dll
